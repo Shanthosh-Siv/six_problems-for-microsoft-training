@@ -1,4 +1,3 @@
-Problem_output
 ![problem_1](https://github.com/user-attachments/assets/6425c9b6-7b77-47d5-bb36-274d0b5f7414)
 ![problem_2](https://github.com/user-attachments/assets/55d1bfd5-1a3b-4072-bb38-b828d48f73da)
 ![problem_3](https://github.com/user-attachments/assets/4182ecc8-9f0a-4b38-a7c0-bad8402f16fc)
